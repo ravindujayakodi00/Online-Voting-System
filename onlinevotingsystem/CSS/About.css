@@ -1,0 +1,119 @@
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+/*page top */
+.top {
+    background-color: #1d2026;
+    height: 400px;
+
+}
+.page-top {
+    width: 100%;
+    height: 150px;
+}
+.page-top img {
+    width: 100%;
+    height: 150px;
+}
+.page-top h1 {
+    color: rgb(43, 42, 42);
+    position: absolute;
+    top: 120px;
+    left: 40%;
+    margin-bottom: 0px;
+}
+hr {
+    margin-top: 0px;
+    padding: 0px;
+
+}
+.header {
+    margin-top: 2%;
+    margin-left: 7%;
+    color: azure;
+}
+
+.main-text {
+    margin-top: 1%;
+    margin-left: 7% ;
+    margin-right: 7%; 
+    font-size: 20px;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: beige;
+}
+/*page top end*/
+.middle-content {
+    background-color: azure;
+    color: black;
+
+}
+.vision{
+    width: 40%;
+    margin-left: 8%;
+}
+.vision h2 {
+    margin-top: 110px;
+    text-decoration: underline;
+}
+.vision p {
+    margin-top: 15px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 1.5;
+
+}
+.vision img {
+    width: 550px;
+    height: 300px;
+    position: relative;
+    left: 115%;
+    top: -220px;
+}
+.mission {
+    width: 40%;
+    margin-top: -400px;
+    margin-left: 55%;
+    margin-right: 8%;
+}
+.mission-img {
+    margin-right: 0px;
+    width: 550px;
+    height: 300px;
+    position: relative;
+    top: -160PX;
+    left: 8%;
+}
+.mission h2 {
+    text-decoration: underline;
+
+}
+.mission p {
+    margin-top: 15px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 1.5;
+}
+
+.news  {
+    position: relative;
+    top: 100px;
+    left: 75%;
+    background-color: #fecf3d;
+    padding: 10px 3px;
+    margin: 20px 0px 0px 140px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    opacity: 0.9;
+    border-radius: 20px;
+}
+.news a{
+    color: #1d2026;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: Impact;
+}
+
